@@ -1,0 +1,18 @@
+{
+  "default_branch": "HV",
+  "branches": [
+    "HV",
+    "Humbolt",
+    "origin"
+  ],
+  "parent": {
+    "HV": null,
+    "Humbolt": "HV",
+    "origin": "HV"
+  },
+  "order": [
+    "HV",
+    "Humbolt",
+    "origin"
+  ]
+}
